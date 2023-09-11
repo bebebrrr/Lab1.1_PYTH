@@ -6,4 +6,7 @@ int main()
   cout<<"Hello!";
   cout<<"I'm a program!";
   int a, b, c, d;
+  cout<<"a =";
+  cin>>a;
+
 }
