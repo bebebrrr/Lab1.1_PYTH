@@ -12,4 +12,6 @@ cout<<"b =";
   cin>>b;
 cout<<"c =";
   cin>>c;
+cout<<"d =";
+  cin>>d;
 }
