@@ -8,5 +8,6 @@ int main()
   int a, b, c, d;
   cout<<"a =";
   cin>>a;
-
+cout<<"b =";
+  cin>>b;
 }
